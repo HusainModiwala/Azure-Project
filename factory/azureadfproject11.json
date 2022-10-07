@@ -1,0 +1,9 @@
+{
+	"name": "azureadfproject11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5369cadf-698f-4562-bbb0-d35d55f4daad",
+		"tenantId": "5a2a66eb-6384-4315-8268-8ce7e0be5e80"
+	}
+}
